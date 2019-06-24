@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModDemo.iml" filepath="$PROJECT_DIR$/ModDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yash.main/yash.main.iml" filepath="$PROJECT_DIR$/yash.main/yash.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yash.util/yash.util.iml" filepath="$PROJECT_DIR$/yash.util/yash.util.iml" />
+    </modules>
+  </component>
+</project>

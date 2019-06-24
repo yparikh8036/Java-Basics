@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Echo",
+            "request": "launch",
+            "mainClass": "Echo",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PridicateTest",
+            "request": "launch",
+            "mainClass": "PridicateTest",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RawTest",
+            "request": "launch",
+            "mainClass": "RawTest",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PairTest",
+            "request": "launch",
+            "mainClass": "PairTest",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoxPrinterTest",
+            "request": "launch",
+            "mainClass": "BoxPrinterTest",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ParallelStream",
+            "request": "launch",
+            "mainClass": "ParallelStream",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlatMap",
+            "request": "launch",
+            "mainClass": "FlatMap",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StoreCollection",
+            "request": "launch",
+            "mainClass": "StoreCollection",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortCollection",
+            "request": "launch",
+            "mainClass": "SortCollection",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculation",
+            "request": "launch",
+            "mainClass": "Calculation",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OptionalClass",
+            "request": "launch",
+            "mainClass": "OptionalClass",
+            "projectName": "AfterJobLeft_7f16fcea"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SearchStream",
+            "request": "launch",
+            "mainClass": "SearchStream",
+            "projectName": "AfterJobLeft_7f16fcea"
+        }
+    ]
+}
